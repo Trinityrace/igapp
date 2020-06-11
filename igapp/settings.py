@@ -27,7 +27,9 @@ INSTALLED_APPS = [
     'bootstrap3',
     'bootstrap4',
     'cloudinary',
-    #'insta.app.InstaConfig',
+    
+    'insta',
+#    'insta.app.InstaConfig',
 
     'django.contrib.admin',
     'django.contrib.auth',
